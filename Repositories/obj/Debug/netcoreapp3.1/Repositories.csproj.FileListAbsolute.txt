@@ -1,0 +1,12 @@
+C:\Users\frann\source\repos\Fabrica\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\frann\source\repos\Fabrica\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\frann\source\repos\Fabrica\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\frann\source\repos\Fabrica\Repositories\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\frann\source\repos\Fabrica\Repositories\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CopyComplete
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\frann\source\repos\Fabrica\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
